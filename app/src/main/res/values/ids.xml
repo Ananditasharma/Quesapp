@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linear_layout_1" type="id" />
+    <item name="linear_layout_2" type="id" />
+    <item name="tv_days" type="id" />
+    <item name="tv_hour" type="id" />
+    <item name="tv_minute" type="id" />
+    <item name="tv_second" type="id" />
+    <item name="tv_question" type="id" />
+    <item name="response" type="id" />
+    <item name="btn_one" type="id" />
+    <item name="btn_two" type="id" />
+    <item name="btn_three" type="id" />
+    <item name="btn_nine" type="id" />
+    <item name="cb3" type="id" />
+    <item name="cb2" type="id" />
+    <item name="cb1" type="id" />
+    <item name="cb4" type="id" />
+</resources>
